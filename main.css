@@ -6,6 +6,13 @@ body {background-color:rgb(0,0,0);
     font-family: 'Montserrat', sans-serif;
 font-family: 'Vina Sans', cursive;
 }
+.bg-warning {
+   background-color:gold !important;
+
+}
+.bg-danger{
+   background-color: rgb(220, 20, 60) !important;
+}
 
 
 
@@ -23,7 +30,8 @@ body > header > nav.horizontalNavigation li {
  width: 20%; 
 }
 h2{color: rgb(220,20,60);}
-h3{color: rgb(220,20,60);}
+h3,h4,h5,h6{color: rgb(220,20,60);}
+
 
 
 
